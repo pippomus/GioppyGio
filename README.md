@@ -27,7 +27,7 @@ Special thanks to Madhouse (coder).
 
 Special thanks also go to:
 
-Miky1964, Zorro71, saw_enigmista, SkyRun1973, StixMax for the continuous tests carried out and for the constant support.
+Miky1964, Zorro71, saw_enigmista, StixMax for the continuous tests carried out and for the constant support.
 
 ![1_0_1_D49_8800_13E_EEEE0000_0_0_0_20211203171554](https://user-images.githubusercontent.com/35741027/144635874-49f5bb48-ea01-488d-803b-00b8a45b0bfd.jpg)
 
